@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is changed by yihe.
 I made change here.
+=======
+This is changed by yihe.
+>>>>>>> b40812087b6dbf4746422c66c7e0a0bec6d4952e
